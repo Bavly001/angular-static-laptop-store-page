@@ -17,7 +17,7 @@ It is a simple web page application for the first angular try to use angular in 
 
 ## Installation
 
-1. Clone the repo
+1. Clone the repository
    ```sh
    git clone https://github.com/Bavly001/angular-static-laptop-store-page-.git
    ```
