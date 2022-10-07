@@ -29,14 +29,11 @@ It is a simple web page application for the first angular try to use angular in 
    ```sh
    npm start
    ```
-  
-  OR  
-
-   ```sh
-   ng serve
-   ```
-
-  (for angular)
+   OR  
+    ```sh
+    ng serve
+    ```
+   (for angular)
    
 4. Open Local Server to view it in your browser
    ```sh
