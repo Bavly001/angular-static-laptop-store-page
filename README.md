@@ -19,7 +19,7 @@ It is a simple web page application for the first angular try to use angular in 
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/Bavly001/angular-static-laptop-store-page-.git
+   git clone https://github.com/Bavly001/angular-static-laptop-store-page.git
    ```
 2. Install NPM packages
    ```sh
