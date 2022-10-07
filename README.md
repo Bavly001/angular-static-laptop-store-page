@@ -30,13 +30,13 @@ It is a simple web page application for the first angular try to use angular in 
    npm start
    ```
   
-OR  
+  OR  
 
    ```sh
    ng serve
    ```
 
-(for angular)
+  (for angular)
    
 4. Open Local Server to view it in your browser
    ```sh
